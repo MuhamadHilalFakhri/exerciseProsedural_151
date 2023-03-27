@@ -27,7 +27,7 @@ int main()
 
     cout << "masukkan nama : ";
     cin >> nama;
-    cout << "masukkan nilai matematika : ";
+    cout << "masukkan nilai matematika : "; 
     cin >> nilM;
     cout << "masukkan nilai bahasa inggris : ";
     cin >> nilB;
